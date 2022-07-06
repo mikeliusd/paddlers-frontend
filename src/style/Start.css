@@ -1,0 +1,9 @@
+.start-steps
+{
+min-height: 800px;
+padding: 40px;
+
+background-repeat:repeat-x;
+background-image:url('../bround.png');
+background-color:#0c0c0c;
+}

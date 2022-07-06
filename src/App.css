@@ -1,0 +1,108 @@
+@import '~antd/dist/antd.css';
+.function-title
+{
+    font-weight: 400;
+    font-size:2.7em;
+    color:#161414;
+    white-space: nowrap;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.function-title2
+{
+    font-weight: 800;
+    font-size:5.7em;
+    color:#1890ff;
+    white-space: nowrap;
+    margin-block-start: 1.0em;
+    margin-block-end: 0.0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.function-title3
+{
+    font-weight: 800;
+    font-size:5.7em;
+    color:#1890ff;
+    white-space: nowrap;
+    margin-block-start: 0.0em;
+    margin-block-end: 0.0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.function-title4
+{
+    font-weight: 500;
+    font-size:2.7em;
+    color:#e6f7ff;
+    white-space: nowrap;
+    margin-block-start: 0.69em;
+    margin-block-end: 0.69em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.container
+{
+  padding: 0.0em;
+  background: rgb(255, 255, 255);
+  position:relative;
+  min-height:calc(100%-48px);
+  
+}
+footer{
+  width: 100%;
+  height:70px;   /* footer的高度一定要是固定值*/ 
+  position:absolute;
+  bottom:0px;
+  left:0px;
+  background: rgb(2, 14, 255);
+  opacity: 1.0;
+  
+}
+.bj {
+  background: url(./bround.png) no-repeat center;
+  background-size: cover;
+} 
+.title
+{
+    font-weight: 500;
+    font-size:2.7em;
+    color:#391085;
+    white-space: nowrap;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.title2
+{
+    font-weight: 580;
+    font-size:1.5em;
+    color:#120338;
+    white-space: nowrap;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.grande
+{
+background-color:#dede14;
+}
+#uploadPic
+{
+  width: 20em;
+  height: 20em;
+}
+#uploadPic2
+{
+  width: 20em;
+  height:20em;
+}
+#resultPic
+{
+  width: 40em;
+  height: 40em;
+}
